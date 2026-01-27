@@ -1,4 +1,4 @@
-# Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+# Medical Assistance with LLM LangChain Pinecone AWS
 
 # How to run?
 ### STEPS:
